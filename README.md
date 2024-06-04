@@ -1,2 +1,2 @@
-# dsa3p-repo
+# dsa39-repo
 DSA39 Git learning
